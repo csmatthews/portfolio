@@ -4,7 +4,7 @@ This list contains various web mapping applications that I have developed for di
 
 
 1. Below are links to web maps showing transportation corridor flood impacts by sea-level rise scenario (links #1-#4) and priority candidate sites for further analysis (link #5).
-   1. [STCVA webmap guide](http://www.therpc.org/download_file/view/2571/447)
+   * [STCVA webmap guide](http://www.therpc.org/download_file/view/2571/447)
    2. [Sea Level Rise 1'](https://rpc-nh.maps.arcgis.com/apps/mapviewer/index.html?webmap=96b39853cbde4672ba770a851916d88c)
    3. [Sea Level Rise 1.7'](https://rpc-nh.maps.arcgis.com/apps/mapviewer/index.html?webmap=1a3f435ffad84ced96e8d86d508dbac4)
    4. [Sea Level Rise 4.0](https://rpc-nh.maps.arcgis.com/apps/mapviewer/index.html?webmap=de63560785f04f2dbdb2ed789fc53a57)
